@@ -41,12 +41,17 @@ Dataset: *UK-based E-Commerce Transactions (Kaggle)*
 ---
 
 ##  Business Insights
-- Loyal customers drive most of the sales volume.
+- Champions and Loyal customers drive most of the sales volume.
 - A large portion of customers are inactive ("Lost" or "Needs Attention") — potential for reactivation campaigns.
 - Product sales have strong seasonality trends across months.
 - High-value customers show shorter recency cycles and larger order sizes.
 
 ---
+
+## Reccomendation
+- Re-engage “At Risk” and “Lost” customers with targeted discounts or loyalty programs.
+
+- Focus marketing on Champions and Loyal customers for retention.
 
 ##  Tools Used
 - Power BI  
